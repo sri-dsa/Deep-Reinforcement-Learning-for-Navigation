@@ -1,0 +1,12 @@
+pyyaml
+numpy>=1.19.5
+squaternion
+psutil
+rospkg
+wget
+pycollada
+trimesh
+opencv-python
+scipy
+tqdm
+tensorboard
